@@ -1,0 +1,12 @@
+.editable-field {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.editable-field * {
+    margin: 1rem;
+}
+
+.editable-field svg {
+    align-self: center;
+}
